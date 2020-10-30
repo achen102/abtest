@@ -1,1 +1,12 @@
-/* Put your style information here! */
+body{
+    background-color: #CED6F1;
+    display: flex;
+    
+}
+
+img{
+    padding-left: 140px;
+    width: 80%;
+    justify-self: center;
+   
+}
